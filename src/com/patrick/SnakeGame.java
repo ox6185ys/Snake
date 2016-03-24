@@ -1,9 +1,8 @@
-package com.clara;
+package com.patrick;
 
 import java.util.Timer;
 
 import javax.swing.*;
-
 
 public class SnakeGame {
 
